@@ -1,0 +1,7 @@
+Crie um programa utilizando Python e Selenium para realizar o o webscrape da seguinte 
+url :https://produto.mercadolivre.com.br/MLB-2068417303-bicicleta-aco-carbono-ksvj-aro-29-freios-a-disco-21-vel-_JM#position=40&search_layout=grid&type=item&tracking_id=b67cabfb-ad4f-4277-bf05-559c6812680f&c_id=/home/promotions-recommendations/element&c_element_order=2&c_uid=7a0d19a2-cee0-46ba-9f3a-fb5cc46f299d
+Aguarde 5 segundos e localize <h1 class="ui-pdp-title">Bicicleta Aço Carbono Ksvj Aro 29 Freios A Disco 21 Vel</h1>
+
+
+Este código deve retornar o nome do produto <h1.ui-pdp-title>, e o seu valor, especificado como <span class="andes-money-amount__fraction"> e utilizando valor como float. 
+Caso o valor seja menor que R$1000.00 imprimir na tela como "Bom para Compra"

@@ -1,0 +1,1 @@
+Verifica a quantidade de páginas encontradas no Google. 
